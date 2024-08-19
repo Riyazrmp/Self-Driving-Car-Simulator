@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    background: darkgrey;
+    overflow: hidden;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+}
+#verticalButtons{
+    display: flex;
+    flex-direction: column;
+  
+}
+#button{
+    margin: 10px;
+}
+#carCanvas{
+    background: lightgray;
+}
+#networkCanvas{
+    background: black;
+}   
