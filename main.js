@@ -19,7 +19,7 @@ if(localStorage.getItem("topCar")){
     for(let i = 0; i <cars.length;i++){
         cars[i].brain = JSON.parse(localStorage.getItem("topCar"));
         if(i>0){
-           Network.evolve(cars[i].brain,0.17);
+           Network.evolve(cars[i].brain,0.2);
         }
         
     }
