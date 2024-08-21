@@ -16,7 +16,7 @@ This simulator uses a genetic machine learning algorithm to create the "brain" o
 
 3. **Subsequent Rounds**
    - Reload the web page.
-   - Out of the 200 AI cars, 199 will have a 20% variation from the best brain of the previous round.
+   - Out of the 200 AI cars, 199 will have a 18% variation from the best brain of the previous round.
    - Wait for all cars to collide, then click "Save" to store the best car brain.
 
 4. **Repeat**
